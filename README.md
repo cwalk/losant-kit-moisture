@@ -1,5 +1,10 @@
 # Losant IoT Moisture Sensor Kit
 
+## YouTube
+
+YouTube: https://youtu.be/4UHDTmjn1Jc?list=PLgAD2y-6wgwqXMw-UZoz1gNYJyJKkzE81
+
+
 The Losant IoT Moisture Sensor Kit includes all of the hardware and software required to build an Internet-powered moisture sensor. Be instantly notified by text, email, Slack, or many others as soon as your plant needs water. Easily visualize the current and historical moisture level of your plants.
 
 This kit can be purchased through the [Losant IoT Developer Store](https://store.losant.com/products/losant-moisture-sensor-kit).
